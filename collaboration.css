@@ -40,11 +40,9 @@ nav li a:link {
 }
 
 #solicit {
-	position: fixed;
-	top: 50%;
-	left: 50%;
-	margin-top: -183px;
-	margin-left: -264px;
+	display: block;
+	max-width: 40%;
+	margin: auto;
 }
 
 figcaption {
