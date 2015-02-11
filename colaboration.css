@@ -28,7 +28,7 @@ nav li a {
 }
 
 nav li a:active {
-	color: rgb(200, 150, 150);
+	color: rgb(150, 200, 150);
 }
 
 nav li a:visited {
@@ -36,7 +36,7 @@ nav li a:visited {
 }
 
 nav li a:link {
-	color: rgb(180, 100, 100);
+	color: rgb(100, 180, 100);
 }
 
 #solicit {
