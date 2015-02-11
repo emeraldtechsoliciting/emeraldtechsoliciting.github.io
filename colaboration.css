@@ -4,13 +4,13 @@
 	text-transform: capitalize;
 	color: rgb(100, 230, 100);
 	text-shadow: -3px 3px 10px rgb(180, 80, 80);
+	font-family: "baroque-text",sans-serif;
 }
 
 .subtitle {
 	text-align: center;
 	text-transform: lowercase;
 	color: rgba(25, 25, 25, 0.1);
-	text-shadow: 1px 1px 1px rgb(20, 20, 20));
 }
 
 nav {
@@ -24,10 +24,6 @@ nav li {
 nav li a {
 	margin: 30px;
 	text-decoration: none;
-}
-
-nav li a:hover {
-	color: rgb(255, 100, 100);
 }
 
 nav li a:active {
