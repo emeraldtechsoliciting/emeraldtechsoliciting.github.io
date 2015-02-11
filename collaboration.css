@@ -47,9 +47,14 @@ nav li a:link {
 	margin-left: -264px;
 }
 
-#imgcaption {
+figcaption {
+	text-align: center;
+	color: rgb(80, 80, 80);
+}
+
+/*#imgcaption {
 	position: relative;
 	text-align: center;
 	color: rgb(80, 80, 80);
 	margin-top: 30%;
-}
+}*/
