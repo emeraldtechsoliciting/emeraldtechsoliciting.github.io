@@ -29,6 +29,7 @@ nav li {
 nav li a {
 	margin: 30px;
 	text-decoration: none;
+	text-shadow: 0 0 2px rgb(30, 0, 0);
 }
 
 nav li a:active {
