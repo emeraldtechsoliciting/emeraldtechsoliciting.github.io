@@ -41,6 +41,7 @@ nav li a:link {
 
 nav span {
 	text-decoration: line-through;
+	opacity: 0.4;
 }
 
 #solicit {
