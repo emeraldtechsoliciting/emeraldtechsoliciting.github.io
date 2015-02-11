@@ -1,4 +1,4 @@
-body #greenbkgd {
+body {
 	background-image: url("/media/algae1.jpg"), url("/media/algae2.jpg");
 }
 
