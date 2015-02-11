@@ -36,20 +36,20 @@ nav li a {
 }
 
 nav li a:active {
-	color: rgb(150, 255, 150);
+	color: rgb(200, 255, 150);
 }
 
 nav li a:visited {
-	color: rgb(150, 190, 150);
+	color: rgb(190, 255, 190);
 }
 
 nav li a:link {
-	color: rgb(150, 170, 150);
+	color: rgb(200, 255, 200);
 }
 
 nav span {
 	text-decoration: line-through;
-	color: rgba(190, 255, 190, 0.6);
+	color: rgba(190, 255, 190, 0.4);
 }
 
 #solicit {
