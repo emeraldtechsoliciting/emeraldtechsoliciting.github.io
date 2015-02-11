@@ -1,9 +1,9 @@
 .greenheader {
 	text-align: center;
 	font-style: italic;
-	text-transform: capitalize;
-	color: rgb(100, 230, 100);
-	text-shadow: -3px 3px 10px rgb(180, 80, 80);
+	text-transform: uppercase;
+	color: rgb(60, 130, 60);
+	text-shadow: -3px 3px 10px rgb(100, 30, 30);
 	font-family: "baroque-text",sans-serif;
 }
 
