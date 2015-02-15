@@ -98,6 +98,12 @@ figcaption {
 	margin-right: -24px;
 }
 
+#fblike {
+	position: fixed;
+	bottom: 3%;
+	left: 2%;
+}
+
 /*#imgcaption {
 	position: relative;
 	text-align: center;
