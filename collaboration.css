@@ -4,7 +4,7 @@
 	background-size: 100%;
 }
 
-.greenheader {
+a:link .greenheader {
 	text-decoration: none;
 }
 
