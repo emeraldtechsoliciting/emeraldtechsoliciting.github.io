@@ -1,9 +1,7 @@
 .greenbkgd {
-	background-image: url("/media/algae1.jpg");
+	background-image: url("/media/algae1.jpg") no-repeat center center fixed cover;
 	background-color: black;
-	background-size: cover;
-	background-attachment: fixed;
-	background-position: center center;
+	
 }
 
 a:link {
