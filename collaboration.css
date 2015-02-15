@@ -53,7 +53,6 @@ nav li a {
 	color: rgb(10, 80, 12);
 }
 
-/*https://www.facebook.com/emeraldtechsoliciting*/
 /*
 nav li a:active {
 	color: rgb(10, 17, 12);
@@ -90,6 +89,13 @@ figcaption {
 	text-shadow: 0 0 3px rgb(10,80,10);
 	font-family: arial;
 	font-size: 1.2em;
+}
+
+#fbicon {
+	position: fixed;
+	bottom: 3%;
+	left: auto;
+	right: auto;
 }
 
 /*#imgcaption {
