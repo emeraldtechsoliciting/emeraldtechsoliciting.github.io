@@ -36,7 +36,7 @@ nav {
 	padding: 3px 0px 3px 0px;
 	font-style: bold;
 	font-family: arial;
-	text-shadow: 0 0 3px rgb(30, 10, 10);
+	text-shadow: 0 0 3px rgb(80, 10, 10);
 	max-width: 50%;
 	margin-left: auto;
 	margin-right: auto;
@@ -49,9 +49,11 @@ nav li {
 nav li a {
 	margin: 30px;
 	text-decoration: none;
-
+	color: rgb(10, 80, 12);
 }
 
+/*https://www.facebook.com/emeraldtechsoliciting*/
+/*
 nav li a:active {
 	color: rgb(10, 17, 12);
 }
@@ -62,7 +64,7 @@ nav li a:visited {
 
 nav li a:link {
 	color: rgb(100, 155, 100);
-}
+}*/
 
 /*nav span {
 	text-decoration: line-through;
