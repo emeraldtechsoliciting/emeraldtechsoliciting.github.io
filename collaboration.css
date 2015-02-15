@@ -92,6 +92,10 @@ figcaption {
 	margin-bottom: 50px;
 }
 
+#emailme submit {
+	margin-bottom: 50px;
+}
+
 #fbicon {
 	position: fixed;
 	bottom: 3%;
