@@ -1,6 +1,6 @@
-body {
-	background-image: url("/media/algae1.jpg"), url("/media/algae2.jpg");
-	background-size: 100%, 100%;
+#greenbkgd {
+	background-image: url("/media/algae1.jpg");
+	background-size: 100%;
 }
 
 .greenheader {
