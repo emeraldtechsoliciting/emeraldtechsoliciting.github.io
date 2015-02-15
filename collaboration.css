@@ -94,8 +94,9 @@ figcaption {
 #fbicon {
 	position: fixed;
 	bottom: 3%;
-	left: auto;
-	right: auto;
+	display: inline;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 /*#imgcaption {
