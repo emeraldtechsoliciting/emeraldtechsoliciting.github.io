@@ -4,12 +4,8 @@
 	background-size: 100%;
 }
 
-a:link .greenheader {
+a:link {
 	text-decoration: none;
-}
-
-a:visited .greenheader {
-    text-decoration: none;
 }
 
 a .greenheader {
