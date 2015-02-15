@@ -8,6 +8,10 @@ a:link .greenheader {
 	text-decoration: none;
 }
 
+a:visited .greenheader {
+    text-decoration: none;
+}
+
 a .greenheader {
 	text-align: center;
 	font-style: italic;
