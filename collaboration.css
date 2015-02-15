@@ -6,11 +6,13 @@
 .greenheader {
 	text-align: center;
 	font-style: italic;
+	font-size: 3em;
 	text-transform: uppercase;
 	color: rgb(50, 100, 50);
 	text-shadow: 0 0 15px rgb(255, 10, 10);
 	font-family: "reklame-script",sans-serif;
 	letter-spacing: 7px;
+	margin-top: 5%;
 }
 
 .subtitle {
