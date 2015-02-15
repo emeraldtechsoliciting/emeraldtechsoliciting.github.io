@@ -1,5 +1,5 @@
 .greenbkgd {
-	background-image: url("/media/algae1.jpg") no-repeat;
+	background-image: url("/media/algae1.jpg");
 	background-color: black;
 	background-size: cover;
 	background-attachment: fixed;
