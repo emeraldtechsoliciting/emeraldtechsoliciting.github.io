@@ -9,6 +9,7 @@ a .greenheader {
 	font-style: italic;
 	font-size: 3em;
 	text-transform: uppercase;
+	text-decoration: none;
 	color: rgb(50, 100, 50);
 	text-shadow: 0 0 15px rgb(255, 10, 10);
 	font-family: "reklame-script",sans-serif;
