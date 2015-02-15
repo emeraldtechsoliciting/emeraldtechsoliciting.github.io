@@ -92,9 +92,10 @@ figcaption {
 }
 
 #fbicon {
-	margin-bottom: 3%;
-	display: inline;
-	text-align: center;
+	position: fixed;
+	bottom: 3%;
+	left: 50%;
+	margin-right: -24px;
 }
 
 /*#imgcaption {
