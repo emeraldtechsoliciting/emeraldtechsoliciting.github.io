@@ -83,6 +83,15 @@ figcaption {
 	color: rgba(80, 80, 80, 0.2);
 }
 
+#emailme {
+	display: inline;
+	text-align: center;
+	color: white;
+	text-shadow: 0 0 3px rgb(10,80,10);
+	font-family: arial;
+	font-size: 1.2em;
+}
+
 /*#imgcaption {
 	position: relative;
 	text-align: center;
