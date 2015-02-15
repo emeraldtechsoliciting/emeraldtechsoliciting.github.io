@@ -4,6 +4,10 @@
 	background-size: 100%;
 }
 
+. greenheader {
+	text-decoration: none;
+}
+
 a .greenheader {
 	text-align: center;
 	font-style: italic;
