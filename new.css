@@ -1,0 +1,13 @@
+#mainbkgd {
+	background-image: url(/media/algae1.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+#index2title {
+font-family: "daniel",cursive;
+text-align: center;
+margin-left: auto;
+margin-right: auto;
+margin-top: ;
+}
